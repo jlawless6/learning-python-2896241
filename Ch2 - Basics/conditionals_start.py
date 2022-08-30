@@ -26,7 +26,7 @@ def main():
     # print(result)
 
     # match-case makes it easy to compare multiple values
-    value = "one"
+    value = "42"
     match value:
         case "one":
             result = 1
