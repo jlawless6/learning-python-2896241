@@ -1,2 +1,20 @@
-Left off on Chapter 3, start on Reading and writing files
-https://www.linkedin.com/learning/learning-python-14393370/classes?autoSkip=true&autoplay=true&dApp=120663554&resume=false&u=70646540
+
+Instructor: Joe Marini
+
+Check out these courses:
+ Python Standard Library Essential Training Course
+
+ Python: XML, JSON, and the web
+
+ Python Essential Libraries
+
+ Python Object-Oriented Programming
+
+ Advanced Python
+
+
+
+
+
+
+ Python.org
